@@ -32,7 +32,7 @@ A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projec
 The headers generate optimized code at compile-time through template metaprogramming.  The core of the library
 is under 150kb, and supports arbitrary dimensions and metrics (limited by your compiler...).
 
-The library can be used as a math-only, or as an application with built-in graphics.  Both OpenGL and OpeGLES draw routines are supported.
+The library can be used as a math-only, or as an application with built-in graphics.  Both OpenGL and OpenGLES draw routines are supported.
 
 
 Lead Developer: Pablo Colapinto
